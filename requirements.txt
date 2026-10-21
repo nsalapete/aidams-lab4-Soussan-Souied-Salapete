@@ -1,0 +1,10 @@
+numpy>=1.26
+pandas>=2.2
+matplotlib>=3.8
+scipy>=1.11
+pydantic>=2.5
+scikit-learn>=1.3
+notebook>=7.0
+ipykernel>=6.0
+# Optional, only for the D2 box (dense embeddings):
+# sentence-transformers>=3.0
